@@ -2,19 +2,19 @@
 using namespace std;
 
 int main() {
-    int book[6];
+    int book[5];
     int searchID;
 
-    cout << "Enter 6 Book IDs:\n";
+    cout << "Enter 5 Book IDs:\n";
 
-    for (int i = 0; i < 6; i++) {
+    for (int i = 0; i < 5; i++) {
        cin >> book[i];
     }
 
     cout << "\nEnter Book ID to search: ";
     cin >> searchID;
 
-    for (int i = 0; i < 6; i++)
+    for (int i = 0; i < 5; i++)
     {
         if (book[i] == searchID)
         {
