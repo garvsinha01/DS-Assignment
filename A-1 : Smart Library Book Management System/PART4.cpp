@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int book[11];
+    int book[10];
     int n = 0;
     int choice;
     int searchID;
@@ -17,7 +17,7 @@ int main() {
         cin >> choice;
 
         if (choice == 1) {
-            if (n < 11) {
+            if (n < 10) {
                 cout << "Enter Book ID: ";
                 cin >> book[n];
                 n++;
