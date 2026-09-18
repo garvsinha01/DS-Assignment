@@ -30,7 +30,7 @@ int main() {
         }
 
         else if (choice == 2) {
-            cout << "\n===== STUDENT RECORDS =====\n";
+            cout << "\n-----STUDENT RECORDS-----\n";
 
             for (int i = 0; i < n; i++) {
                 cout << "Roll Number: " << rollNo[i];
