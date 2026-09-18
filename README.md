@@ -4,7 +4,6 @@ Unit-1 :-
 
 1. Smart Library Book Management System.
 2. Student Performance & Ranking Management System.
-3. Student Performance Record Management System.
 
 Unit-2 :-
 
