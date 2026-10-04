@@ -6,5 +6,5 @@ Part 2 – Search for a Book: Write a C++ program to store the IDs of 5 library 
 
 Part 3 – Sort Book IDs: Write a C++ program to store the IDs of 5 library books in an array and arrange the Book IDs in ascending order using a simple sorting technique.
 
-Part 4 – Simple Library Menu Write a menu-driven C++ program for a simple library system that allows the user to add a Book ID, display all Book IDs, search for a Book ID, display all Book IDs, search for a Book ID, and exit the program.
+Part 4 – Simple Library Menu Write a menu-driven C++ program for a simple library system that allows the user to add a Book ID, display all Book IDs, search for a Book ID, and exit the program.
 
