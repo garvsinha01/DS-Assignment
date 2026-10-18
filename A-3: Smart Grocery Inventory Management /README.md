@@ -1,0 +1,3 @@
+**3. Smart Grocery Inventory Management System**
+
+A supermarket wants to maintain its product inventory digitally to improve daily operations. The system should allow the store manager to **add, update, delete, and display** product records containing details such as **Product ID, Product Name, Category, Price, Quantity, and Expiry Date**. The manager should be able to **search** for a product using its **Product ID or Product Name** and **sort** products based on **Price, Quantity, or Expiry Date** for better inventory management. The system should use **arrays** to store product records and implement appropriate **searching and sorting algorithms** to ensure quick and efficient access to inventory information.
