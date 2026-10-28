@@ -12,3 +12,6 @@
 4. Smart Grocery Inventory Management System.
 5. Smart Customer Service & Call Management System.
 6. Bank Token Management System.
+
+# Applications- 
+1. Linked List.
