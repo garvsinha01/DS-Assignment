@@ -8,7 +8,7 @@ int main() {
     int searchID;
 
     do {
-        cout << "\n\n===== SMART LIBRARY =====";
+        cout << "\n\n----- SMART LIBRARY -----";
         cout << "\n1. Add Book";
         cout << "\n2. Display Books";
         cout << "\n3. Search Book";
