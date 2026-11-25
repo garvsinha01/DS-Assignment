@@ -13,5 +13,9 @@
 5. Smart Customer Service & Call Management System.
 6. Bank Token Management System.
 
+# Unit 4-
+7.Smart Hospital Patient Record Management System.
+8.E-Commerce Product Catalog & Inventory System.
+
 # Applications- 
 1. Linked List.
