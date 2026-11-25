@@ -9,5 +9,5 @@
 7. Smart Hospital Patient Record Management System.
 8. E-Commerce Product Catalog & Inventory System.
 
-# Applications- 
+## Applications- 
 1. Linked List.
