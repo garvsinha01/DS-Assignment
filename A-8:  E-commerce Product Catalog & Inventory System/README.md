@@ -1,0 +1,3 @@
+E-Commerce Product Catalog & Inventory System
+
+An online shopping platform requires a system to efficiently manage its product catalog and inventory. The system should allow administrators to add new products, update product details, remove discontinued products, and display all available products. Since the product catalog changes frequently, the system should use Linked Lists to support dynamic insertion and deletion of product records. Each product should be identified by a unique Product ID, enabling fast retrieval using a Hash Table. When multiple Product IDs generate the same hash value, the system should implement suitable collision resolution techniques such as Chaining or Open Addressing to ensure efficient product lookup.
