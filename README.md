@@ -12,3 +12,4 @@
 
 ## Applications- 
 1. Linked List.
+2. Templates.
