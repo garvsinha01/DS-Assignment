@@ -1,0 +1,3 @@
+Smart Hospital Patient Record Management System
+
+A hospital requires a system to efficiently manage patient records. The system should allow hospital staff to register new patients, update patient information, discharge patients, and display all patient records. Since the number of patients changes frequently, the records should be maintained using a Linked List to support dynamic insertion and deletion. Each patient should be assigned a unique Patient ID, enabling quick retrieval of patient information using a Hash Table. If multiple Patient IDs map to the same hash location, the system should implement suitable collision resolution techniques such as Chaining or Open Addressing to ensure efficient data retrieval.
