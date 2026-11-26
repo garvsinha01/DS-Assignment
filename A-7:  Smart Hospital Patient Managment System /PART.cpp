@@ -52,7 +52,6 @@ void registerPatient() {
     cout << "Patient registered successfully!\n";
 }
 
-// Update Patient
 void updatePatient() {
     int id;
 
