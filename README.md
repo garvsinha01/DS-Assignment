@@ -13,3 +13,4 @@
 ## Applications- 
 1. Linked List.
 2. Templates.
+3. Types of Tree.
